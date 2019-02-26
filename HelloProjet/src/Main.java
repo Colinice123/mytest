@@ -7,6 +7,5 @@ public class Main {
         System.out.println("HelloWorld!");
 		System.out.println("HelloWorld1!");
 		System.out.println("HelloWorld1!李四");
-		System.out.println("HelloWorld123");
-    }
+        System.out.println("李四修改了代码");    }
 }
