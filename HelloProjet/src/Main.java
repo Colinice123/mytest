@@ -7,5 +7,10 @@ public class Main {
         System.out.println("HelloWorld!");
 		System.out.println("HelloWorld1!");
 		System.out.println("HelloWorld1!李四");
-        System.out.println("李四修改了代码");    }
+<<<<<<< HEAD
+		System.out.println("HelloWorld123");
+=======
+		System.out.println("HelloWorldzhangsan");
+>>>>>>> parent of 25266c0... Merge branch 'master' of github.com:Colinice123/mytest
+    }
 }
