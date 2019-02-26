@@ -6,7 +6,8 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
 	    System.out.println("HelloWorld!zhangsan1");
-		System.out.println("HelloWorld!zhangsan");
+        System.out.println("HelloWorld!zhangsan");
+        System.out.println("HelloWorld!zhangsan2");
 
     }
 }
